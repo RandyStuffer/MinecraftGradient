@@ -4,7 +4,6 @@ A highly customizable, visually interactive Minecraft block gradient generator. 
 
 ## 🌟 Features
 
-- 🔲 **Real Minecraft Textures** — Uses actual block textures for maximum immersion.
 - 🎚️ **Gradient Control Panel** — Adjust gradient length, randomness, and color interpolation.
 - 🔍 **Block Selection Modal** — Search and pick any block for gradient endpoints.
 - ❌ **Exclude Blocks** — Click-to-exclude system lets you filter out unwanted blocks.
